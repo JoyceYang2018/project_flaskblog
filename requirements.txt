@@ -19,7 +19,7 @@ crypto==1.4.1
 cryptography==2.2.2
 cssmin==0.2.0
 cssselect==1.0.3
-Django==1.11.12
+Django==1.11.29
 django-haystack==2.8.1
 django-redis-cache==1.7.1
 django-tinymce==2.7.0
