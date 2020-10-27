@@ -16,7 +16,7 @@ chardet==3.0.4
 click==6.7
 constantly==15.1.0
 crypto==1.4.1
-cryptography==2.2.2
+cryptography==3.2
 cssmin==0.2.0
 cssselect==1.0.3
 Django==1.11.12
